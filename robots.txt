@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hrenanda.github.io/sme-web/sitemap.xml
